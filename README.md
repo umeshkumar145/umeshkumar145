@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Car Price Predictor - Data Science**
 
-- 🌱 I’m currently learning **ReactJs and Data Science with Python**
+- 🌱 I’m currently learning **ReactJs(MERN Development) and Data Science with Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/umeshkumar145](https://github.com/umeshkumar145)
 
